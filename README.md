@@ -1,4 +1,4 @@
-# Customize docker ps
+# docker-ps.sh
 ## Personalise docker ps view
 
 ### Usage:
@@ -45,3 +45,6 @@
     <td>-n</td><td>.Networks</td><td>Names of the networks attached to this container.</td>
   </tr>
 <table>
+
+Example output:<br>
+<img src="docker-ps.png">
