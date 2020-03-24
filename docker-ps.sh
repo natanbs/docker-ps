@@ -69,5 +69,5 @@ while getopts "${options} --" OPTION
       ;;
   esac
 done
-echo Options $OPs
+echo docker ps --format "${OPs}" \| column -t
 docker ps --format "${OPs}" | column -t
