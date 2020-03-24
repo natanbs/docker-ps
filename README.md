@@ -1,5 +1,6 @@
 # docker-ps.sh
 ## Personalise docker ps view
+### Select your preferred arguments and the order they apear
 
 ### Usage:
 ./docker-ps.sh -iIcCRpsSNLli:mn<br>
