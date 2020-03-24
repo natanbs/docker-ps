@@ -4,7 +4,7 @@
 ### Usage:
 ./docker-ps.sh -iIcCRpsSNLli:mn<br>
 
-<table border = "1" width = "80">
+<table>
   <tr>
     <td>-i</td><td>.ID</td><td>Container ID.</td>
   </tr>
