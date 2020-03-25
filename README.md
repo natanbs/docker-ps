@@ -3,9 +3,12 @@
 ### Select your preferred arguments and the order they appear
 
 ### Usage:
-./docker-ps.sh -iIcCRpsSNLli:mn<br>
+./docker-ps.sh -aiIcCRpsSNLli:mn<br>
 
 <table>
+  <tr>
+    <td>-a</td><td>Exited</td><td>Include exited containers</td>
+  </tr>
   <tr>
     <td>-i</td><td>.ID</td><td>Container ID.</td>
   </tr>
