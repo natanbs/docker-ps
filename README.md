@@ -52,6 +52,3 @@
     <td>-d</td><td>default</td><td>With params -NisSI.</td>
   </tr>
 <table>
-
-Example output:<br>
-<img src="docker-ps.png">

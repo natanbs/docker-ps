@@ -85,7 +85,6 @@ while getopts "${options} --" OPTION
 	 s=".Status"
 	 S=".Size"
 	 I=".Image"
-
          OPs="${OPs} {{${N}}} {{${i}}} {{${s}}} {{${S}}} {{${I}}}"
       ;;
   esac
