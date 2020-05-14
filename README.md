@@ -3,7 +3,7 @@
 ### Select your preferred arguments and the order they appear
 
 ### Usage:
-./docker-ps.sh -aiIcCRpsSNLli:mn<br>
+./docker-ps.sh -aiIcCRpsSNLli:mnd<br>
 
 <table>
   <tr>
@@ -47,6 +47,9 @@
   </tr>
   <tr>
     <td>-n</td><td>.Networks</td><td>Names of the networks attached to this container.</td>
+  </tr>
+  <tr>
+    <td>-d</td><td>default</td><td>With params -NisSI.</td>
   </tr>
 <table>
 
